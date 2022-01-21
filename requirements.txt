@@ -16,3 +16,11 @@ six==1.12.0
 transitions==0.6.9
 urllib3==1.25.6
 werkzeug==0.16.0
+requests
+datetime
+python-dateutil
+schedule
+apscheduler
+bs4
+beautifulsoup4
+lxml
